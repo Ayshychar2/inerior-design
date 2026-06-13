@@ -2382,6 +2382,10 @@ img {
         height: 80px;
     }
     
+    .btn-nav-cta {
+        display: none !important;
+    }
+    
     .hamburger {
         display: flex;
     }
